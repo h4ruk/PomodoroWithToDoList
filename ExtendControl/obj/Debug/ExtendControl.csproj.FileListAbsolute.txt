@@ -1,0 +1,16 @@
+C:\Users\hung\Desktop\Pomodoro\CustomControl\ExtendControl\bin\Debug\ExtendControl.dll
+C:\Users\hung\Desktop\Pomodoro\CustomControl\ExtendControl\bin\Debug\ExtendControl.pdb
+C:\Users\hung\Desktop\Pomodoro\CustomControl\ExtendControl\obj\Debug\ExtendControl.csproj.AssemblyReference.cache
+C:\Users\hung\Desktop\Pomodoro\CustomControl\ExtendControl\obj\Debug\ExtendControl.csproj.CoreCompileInputs.cache
+C:\Users\hung\Desktop\Pomodoro\CustomControl\ExtendControl\obj\Debug\ExtendControl.dll
+C:\Users\hung\Desktop\Pomodoro\CustomControl\ExtendControl\obj\Debug\ExtendControl.pdb
+C:\Users\hung\Desktop\Pomodoro\ExtendControl\bin\Debug\ExtendControl.dll
+C:\Users\hung\Desktop\Pomodoro\ExtendControl\bin\Debug\ExtendControl.pdb
+C:\Users\hung\Desktop\Pomodoro\ExtendControl\obj\Debug\ExtendControl.csproj.AssemblyReference.cache
+C:\Users\hung\Desktop\Pomodoro\ExtendControl\obj\Debug\ExtendControl.csproj.CoreCompileInputs.cache
+C:\Users\hung\Desktop\Pomodoro\ExtendControl\obj\Debug\ExtendControl.dll
+C:\Users\hung\Desktop\Pomodoro\ExtendControl\obj\Debug\ExtendControl.pdb
+C:\Users\hung\Desktop\Pomodoro\ExtendControl\obj\Debug\ExtendControl.TaskOptionForm.resources
+C:\Users\hung\Desktop\Pomodoro\ExtendControl\obj\Debug\ExtendControl.csproj.GenerateResource.cache
+C:\Users\hung\Desktop\Pomodoro\ExtendControl\obj\Debug\ExtendControl.TaskAddForm.resources
+C:\Users\hung\Desktop\Pomodoro\ExtendControl\obj\Debug\ExtendControl.TimeOptionForm.resources

@@ -1,0 +1,6 @@
+C:\Users\hung\Desktop\Pomodoro\CustomControl\ExtendControl\bin\Release\ExtendControl.dll
+C:\Users\hung\Desktop\Pomodoro\CustomControl\ExtendControl\bin\Release\ExtendControl.pdb
+C:\Users\hung\Desktop\Pomodoro\CustomControl\ExtendControl\obj\Release\ExtendControl.csproj.AssemblyReference.cache
+C:\Users\hung\Desktop\Pomodoro\CustomControl\ExtendControl\obj\Release\ExtendControl.csproj.CoreCompileInputs.cache
+C:\Users\hung\Desktop\Pomodoro\CustomControl\ExtendControl\obj\Release\ExtendControl.dll
+C:\Users\hung\Desktop\Pomodoro\CustomControl\ExtendControl\obj\Release\ExtendControl.pdb
